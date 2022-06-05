@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/bin/Debug/net5.0/Indexers
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/bin/Debug/net5.0/Indexers.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/bin/Debug/net5.0/Indexers.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/bin/Debug/net5.0/Indexers.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/bin/Debug/net5.0/Indexers.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/bin/Debug/net5.0/Indexers.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/obj/Debug/net5.0/Indexers.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/obj/Debug/net5.0/Indexers.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/obj/Debug/net5.0/Indexers.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/obj/Debug/net5.0/Indexers.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/obj/Debug/net5.0/Indexers.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/obj/Debug/net5.0/Indexers.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/obj/Debug/net5.0/refint/Indexers.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/obj/Debug/net5.0/Indexers.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/obj/Debug/net5.0/Indexers.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Indexers/obj/Debug/net5.0/ref/Indexers.dll

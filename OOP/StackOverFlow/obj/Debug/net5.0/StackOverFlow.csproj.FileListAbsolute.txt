@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/bin/Debug/net5.0/StackOverFlow
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/bin/Debug/net5.0/StackOverFlow.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/bin/Debug/net5.0/StackOverFlow.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/bin/Debug/net5.0/StackOverFlow.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/bin/Debug/net5.0/StackOverFlow.dll
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/bin/Debug/net5.0/StackOverFlow.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/obj/Debug/net5.0/StackOverFlow.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/obj/Debug/net5.0/StackOverFlow.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/obj/Debug/net5.0/StackOverFlow.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/obj/Debug/net5.0/StackOverFlow.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/obj/Debug/net5.0/StackOverFlow.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/obj/Debug/net5.0/StackOverFlow.dll
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/obj/Debug/net5.0/refint/StackOverFlow.dll
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/obj/Debug/net5.0/StackOverFlow.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/obj/Debug/net5.0/StackOverFlow.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/StackOverFlow/obj/Debug/net5.0/ref/StackOverFlow.dll

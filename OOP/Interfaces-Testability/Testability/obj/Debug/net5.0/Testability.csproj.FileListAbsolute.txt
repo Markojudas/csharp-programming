@@ -1,0 +1,17 @@
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/obj/Debug/net5.0/Testability.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/obj/Debug/net5.0/Testability.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/obj/Debug/net5.0/Testability.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/obj/Debug/net5.0/Testability.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/obj/Debug/net5.0/Testability.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/bin/Debug/net5.0/Testability
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/bin/Debug/net5.0/Testability.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/bin/Debug/net5.0/Testability.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/bin/Debug/net5.0/Testability.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/bin/Debug/net5.0/Testability.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/bin/Debug/net5.0/Testability.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/obj/Debug/net5.0/Testability.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/obj/Debug/net5.0/refint/Testability.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/obj/Debug/net5.0/Testability.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/obj/Debug/net5.0/Testability.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/obj/Debug/net5.0/ref/Testability.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Testability/Testability/bin/Debug/net5.0/ref/Testability.dll

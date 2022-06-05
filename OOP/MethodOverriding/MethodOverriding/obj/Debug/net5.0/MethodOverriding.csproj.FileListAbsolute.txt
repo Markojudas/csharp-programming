@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/bin/Debug/net5.0/MethodOverriding
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/bin/Debug/net5.0/MethodOverriding.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/bin/Debug/net5.0/MethodOverriding.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/bin/Debug/net5.0/MethodOverriding.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/bin/Debug/net5.0/MethodOverriding.dll
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/bin/Debug/net5.0/MethodOverriding.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/obj/Debug/net5.0/MethodOverriding.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/obj/Debug/net5.0/MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/obj/Debug/net5.0/MethodOverriding.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/obj/Debug/net5.0/MethodOverriding.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/obj/Debug/net5.0/MethodOverriding.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/obj/Debug/net5.0/MethodOverriding.dll
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/obj/Debug/net5.0/refint/MethodOverriding.dll
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/obj/Debug/net5.0/MethodOverriding.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/obj/Debug/net5.0/MethodOverriding.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/MethodOverriding/MethodOverriding/obj/Debug/net5.0/ref/MethodOverriding.dll

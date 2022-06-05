@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/bin/Debug/net5.0/Extensibility
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/bin/Debug/net5.0/Extensibility.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/bin/Debug/net5.0/Extensibility.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/bin/Debug/net5.0/Extensibility.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/bin/Debug/net5.0/Extensibility.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/bin/Debug/net5.0/Extensibility.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/obj/Debug/net5.0/Extensibility.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/obj/Debug/net5.0/Extensibility.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/obj/Debug/net5.0/Extensibility.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/obj/Debug/net5.0/Extensibility.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/obj/Debug/net5.0/Extensibility.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/obj/Debug/net5.0/Extensibility.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/obj/Debug/net5.0/refint/Extensibility.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/obj/Debug/net5.0/Extensibility.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/obj/Debug/net5.0/Extensibility.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Interfaces-Extensibility/Extensibility/obj/Debug/net5.0/ref/Extensibility.dll

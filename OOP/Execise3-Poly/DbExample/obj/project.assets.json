@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Connections/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Connections.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Connections.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Connections/1.0.0": {
+      "type": "project",
+      "path": "../Connections/Connections.csproj",
+      "msbuildProject": "../Connections/Connections.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Connections >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/markojudas/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/markojudas/Documents/Code/Csharp/OOP/Execise3-Poly/DbExample/DbExample.csproj",
+      "projectName": "DbExample",
+      "projectPath": "/home/markojudas/Documents/Code/Csharp/OOP/Execise3-Poly/DbExample/DbExample.csproj",
+      "packagesPath": "/home/markojudas/.nuget/packages/",
+      "outputPath": "/home/markojudas/Documents/Code/Csharp/OOP/Execise3-Poly/DbExample/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/markojudas/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/home/markojudas/Documents/Code/Csharp/OOP/Execise3-Poly/Connections/Connections.csproj": {
+              "projectPath": "/home/markojudas/Documents/Code/Csharp/OOP/Execise3-Poly/Connections/Connections.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.202/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

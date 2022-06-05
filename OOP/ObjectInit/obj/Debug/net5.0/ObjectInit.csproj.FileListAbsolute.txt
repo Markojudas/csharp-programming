@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/bin/Debug/net5.0/ObjectInit
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/bin/Debug/net5.0/ObjectInit.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/bin/Debug/net5.0/ObjectInit.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/bin/Debug/net5.0/ObjectInit.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/bin/Debug/net5.0/ObjectInit.dll
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/bin/Debug/net5.0/ObjectInit.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/obj/Debug/net5.0/ObjectInit.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/obj/Debug/net5.0/ObjectInit.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/obj/Debug/net5.0/ObjectInit.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/obj/Debug/net5.0/ObjectInit.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/obj/Debug/net5.0/ObjectInit.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/obj/Debug/net5.0/ObjectInit.dll
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/obj/Debug/net5.0/refint/ObjectInit.dll
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/obj/Debug/net5.0/ObjectInit.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/obj/Debug/net5.0/ObjectInit.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/ObjectInit/obj/Debug/net5.0/ref/ObjectInit.dll

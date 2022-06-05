@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/bin/Debug/net5.0/Stopwatch
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/bin/Debug/net5.0/Stopwatch.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/bin/Debug/net5.0/Stopwatch.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/bin/Debug/net5.0/Stopwatch.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/bin/Debug/net5.0/Stopwatch.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/obj/Debug/net5.0/Stopwatch.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/obj/Debug/net5.0/Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/obj/Debug/net5.0/Stopwatch.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/obj/Debug/net5.0/Stopwatch.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/obj/Debug/net5.0/Stopwatch.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/obj/Debug/net5.0/refint/Stopwatch.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/obj/Debug/net5.0/Stopwatch.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/obj/Debug/net5.0/Stopwatch.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Stopwatch/obj/Debug/net5.0/ref/Stopwatch.dll

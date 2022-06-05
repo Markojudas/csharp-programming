@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/Palindrome/bin/Debug/net5.0/Palindrome
+/home/markojudas/Documents/Code/Csharp/Palindrome/bin/Debug/net5.0/Palindrome.deps.json
+/home/markojudas/Documents/Code/Csharp/Palindrome/bin/Debug/net5.0/Palindrome.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/Palindrome/bin/Debug/net5.0/Palindrome.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/Palindrome/bin/Debug/net5.0/Palindrome.dll
+/home/markojudas/Documents/Code/Csharp/Palindrome/bin/Debug/net5.0/Palindrome.pdb
+/home/markojudas/Documents/Code/Csharp/Palindrome/obj/Debug/net5.0/Palindrome.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/Palindrome/obj/Debug/net5.0/Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/Palindrome/obj/Debug/net5.0/Palindrome.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/Palindrome/obj/Debug/net5.0/Palindrome.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/Palindrome/obj/Debug/net5.0/Palindrome.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/Palindrome/obj/Debug/net5.0/Palindrome.dll
+/home/markojudas/Documents/Code/Csharp/Palindrome/obj/Debug/net5.0/refint/Palindrome.dll
+/home/markojudas/Documents/Code/Csharp/Palindrome/obj/Debug/net5.0/Palindrome.pdb
+/home/markojudas/Documents/Code/Csharp/Palindrome/obj/Debug/net5.0/Palindrome.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/Palindrome/obj/Debug/net5.0/ref/Palindrome.dll

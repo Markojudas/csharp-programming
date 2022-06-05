@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/bin/Debug/net5.0/Stack
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/bin/Debug/net5.0/Stack.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/bin/Debug/net5.0/Stack.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/bin/Debug/net5.0/Stack.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/bin/Debug/net5.0/Stack.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/bin/Debug/net5.0/Stack.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/obj/Debug/net5.0/Stack.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/obj/Debug/net5.0/Stack.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/obj/Debug/net5.0/Stack.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/obj/Debug/net5.0/Stack.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/obj/Debug/net5.0/Stack.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/obj/Debug/net5.0/Stack.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/obj/Debug/net5.0/refint/Stack.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/obj/Debug/net5.0/Stack.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/obj/Debug/net5.0/Stack.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Exercise2/Stack/obj/Debug/net5.0/ref/Stack.dll

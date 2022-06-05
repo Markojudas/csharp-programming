@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/bin/Debug/net5.0/Constructors
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/bin/Debug/net5.0/Constructors.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/bin/Debug/net5.0/Constructors.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/bin/Debug/net5.0/Constructors.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/bin/Debug/net5.0/Constructors.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/bin/Debug/net5.0/Constructors.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/obj/Debug/net5.0/Constructors.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/obj/Debug/net5.0/Constructors.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/obj/Debug/net5.0/Constructors.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/obj/Debug/net5.0/Constructors.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/obj/Debug/net5.0/Constructors.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/obj/Debug/net5.0/Constructors.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/obj/Debug/net5.0/refint/Constructors.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/obj/Debug/net5.0/Constructors.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/obj/Debug/net5.0/Constructors.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Constructor-Inheritance/Constructors/obj/Debug/net5.0/ref/Constructors.dll

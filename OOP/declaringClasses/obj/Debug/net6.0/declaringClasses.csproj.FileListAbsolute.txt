@@ -1,0 +1,15 @@
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/bin/Debug/net6.0/declaringClasses
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/bin/Debug/net6.0/declaringClasses.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/bin/Debug/net6.0/declaringClasses.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/bin/Debug/net6.0/declaringClasses.dll
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/bin/Debug/net6.0/declaringClasses.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/obj/Debug/net6.0/declaringClasses.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/obj/Debug/net6.0/declaringClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/obj/Debug/net6.0/declaringClasses.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/obj/Debug/net6.0/declaringClasses.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/obj/Debug/net6.0/declaringClasses.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/obj/Debug/net6.0/declaringClasses.dll
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/obj/Debug/net6.0/refint/declaringClasses.dll
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/obj/Debug/net6.0/declaringClasses.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/obj/Debug/net6.0/declaringClasses.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/declaringClasses/obj/Debug/net6.0/ref/declaringClasses.dll

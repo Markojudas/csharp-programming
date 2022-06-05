@@ -1,0 +1,20 @@
+C:\Users\josrh\Documents\School\COP4226 - Advanced Windows Programming\Assignment\PA3_2\NeatOffice\bin\Debug\NeatOffice.exe.config
+C:\Users\josrh\Documents\School\COP4226 - Advanced Windows Programming\Assignment\PA3_2\NeatOffice\bin\Debug\NeatOffice.exe
+C:\Users\josrh\Documents\School\COP4226 - Advanced Windows Programming\Assignment\PA3_2\NeatOffice\bin\Debug\NeatOffice.pdb
+C:\Users\josrh\Documents\School\COP4226 - Advanced Windows Programming\Assignment\PA3_2\NeatOffice\obj\Debug\NeatOffice.csproj.AssemblyReference.cache
+C:\Users\josrh\Documents\School\COP4226 - Advanced Windows Programming\Assignment\PA3_2\NeatOffice\obj\Debug\NeatOffice.Properties.Resources.resources
+C:\Users\josrh\Documents\School\COP4226 - Advanced Windows Programming\Assignment\PA3_2\NeatOffice\obj\Debug\NeatOffice.csproj.GenerateResource.cache
+C:\Users\josrh\Documents\School\COP4226 - Advanced Windows Programming\Assignment\PA3_2\NeatOffice\obj\Debug\NeatOffice.csproj.CoreCompileInputs.cache
+C:\Users\josrh\Documents\School\COP4226 - Advanced Windows Programming\Assignment\PA3_2\NeatOffice\obj\Debug\NeatOffice.exe
+C:\Users\josrh\Documents\School\COP4226 - Advanced Windows Programming\Assignment\PA3_2\NeatOffice\obj\Debug\NeatOffice.pdb
+C:\Users\josrh\Documents\School\COP4226-Advanced WIndows Programming\Assignments\NeatOffice\bin\Debug\NeatOffice.exe.config
+C:\Users\josrh\Documents\School\COP4226-Advanced WIndows Programming\Assignments\NeatOffice\bin\Debug\NeatOffice.exe
+C:\Users\josrh\Documents\School\COP4226-Advanced WIndows Programming\Assignments\NeatOffice\bin\Debug\NeatOffice.pdb
+C:\Users\josrh\Documents\School\COP4226-Advanced WIndows Programming\Assignments\NeatOffice\obj\Debug\NeatOffice.csproj.AssemblyReference.cache
+C:\Users\josrh\Documents\School\COP4226-Advanced WIndows Programming\Assignments\NeatOffice\obj\Debug\NeatOffice.Properties.Resources.resources
+C:\Users\josrh\Documents\School\COP4226-Advanced WIndows Programming\Assignments\NeatOffice\obj\Debug\NeatOffice.csproj.GenerateResource.cache
+C:\Users\josrh\Documents\School\COP4226-Advanced WIndows Programming\Assignments\NeatOffice\obj\Debug\NeatOffice.csproj.CoreCompileInputs.cache
+C:\Users\josrh\Documents\School\COP4226-Advanced WIndows Programming\Assignments\NeatOffice\obj\Debug\NeatOffice.exe
+C:\Users\josrh\Documents\School\COP4226-Advanced WIndows Programming\Assignments\NeatOffice\obj\Debug\NeatOffice.pdb
+C:\Users\josrh\Documents\School\COP4226-Advanced WIndows Programming\Assignments\NeatOffice\obj\Debug\NeatOffice.MainForm.resources
+C:\Users\josrh\Documents\School\COP4226 - Advanced Windows Programming\Assignment\PA3_2\NeatOffice\obj\Debug\NeatOffice.MainForm.resources

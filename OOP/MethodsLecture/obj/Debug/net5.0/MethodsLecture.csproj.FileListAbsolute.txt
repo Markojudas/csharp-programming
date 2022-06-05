@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/bin/Debug/net5.0/MethodsLecture
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/bin/Debug/net5.0/MethodsLecture.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/bin/Debug/net5.0/MethodsLecture.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/bin/Debug/net5.0/MethodsLecture.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/bin/Debug/net5.0/MethodsLecture.dll
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/bin/Debug/net5.0/MethodsLecture.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/obj/Debug/net5.0/MethodsLecture.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/obj/Debug/net5.0/MethodsLecture.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/obj/Debug/net5.0/MethodsLecture.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/obj/Debug/net5.0/MethodsLecture.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/obj/Debug/net5.0/MethodsLecture.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/obj/Debug/net5.0/MethodsLecture.dll
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/obj/Debug/net5.0/refint/MethodsLecture.dll
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/obj/Debug/net5.0/MethodsLecture.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/obj/Debug/net5.0/MethodsLecture.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/MethodsLecture/obj/Debug/net5.0/ref/MethodsLecture.dll

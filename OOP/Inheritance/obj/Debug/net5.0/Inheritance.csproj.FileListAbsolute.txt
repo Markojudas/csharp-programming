@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/bin/Debug/net5.0/Inheritance
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/bin/Debug/net5.0/Inheritance.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/bin/Debug/net5.0/Inheritance.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/bin/Debug/net5.0/Inheritance.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/obj/Debug/net5.0/Inheritance.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/obj/Debug/net5.0/Inheritance.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/obj/Debug/net5.0/refint/Inheritance.dll
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/obj/Debug/net5.0/Inheritance.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/obj/Debug/net5.0/Inheritance.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/Inheritance/obj/Debug/net5.0/ref/Inheritance.dll

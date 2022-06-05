@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/bin/Debug/net5.0/AbstractClasses
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/bin/Debug/net5.0/AbstractClasses.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/bin/Debug/net5.0/AbstractClasses.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/bin/Debug/net5.0/AbstractClasses.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/bin/Debug/net5.0/AbstractClasses.dll
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/bin/Debug/net5.0/AbstractClasses.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/obj/Debug/net5.0/AbstractClasses.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/obj/Debug/net5.0/AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/obj/Debug/net5.0/AbstractClasses.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/obj/Debug/net5.0/AbstractClasses.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/obj/Debug/net5.0/AbstractClasses.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/obj/Debug/net5.0/AbstractClasses.dll
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/obj/Debug/net5.0/refint/AbstractClasses.dll
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/obj/Debug/net5.0/AbstractClasses.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/obj/Debug/net5.0/AbstractClasses.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/AbstractClasses/AbstractClasses/obj/Debug/net5.0/ref/AbstractClasses.dll

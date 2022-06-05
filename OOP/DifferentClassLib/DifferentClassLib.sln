@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{4B092FA9-A95B-4396-8090-2E9E79934F29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "Amazon\Amazon.csproj", "{EFA62FCA-36FF-4299-8DF0-44E4244983CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B092FA9-A95B-4396-8090-2E9E79934F29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B092FA9-A95B-4396-8090-2E9E79934F29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B092FA9-A95B-4396-8090-2E9E79934F29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B092FA9-A95B-4396-8090-2E9E79934F29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA62FCA-36FF-4299-8DF0-44E4244983CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA62FCA-36FF-4299-8DF0-44E4244983CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA62FCA-36FF-4299-8DF0-44E4244983CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA62FCA-36FF-4299-8DF0-44E4244983CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

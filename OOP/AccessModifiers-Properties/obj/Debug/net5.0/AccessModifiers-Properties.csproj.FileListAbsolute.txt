@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/bin/Debug/net5.0/AccessModifiers-Properties
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/bin/Debug/net5.0/AccessModifiers-Properties.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/bin/Debug/net5.0/AccessModifiers-Properties.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/bin/Debug/net5.0/AccessModifiers-Properties.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/bin/Debug/net5.0/AccessModifiers-Properties.dll
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/bin/Debug/net5.0/AccessModifiers-Properties.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/obj/Debug/net5.0/AccessModifiers-Properties.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/obj/Debug/net5.0/AccessModifiers-Properties.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/obj/Debug/net5.0/AccessModifiers-Properties.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/obj/Debug/net5.0/AccessModifiers-Properties.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/obj/Debug/net5.0/AccessModifiers-Properties.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/obj/Debug/net5.0/AccessModifiers-Properties.dll
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/obj/Debug/net5.0/refint/AccessModifiers-Properties.dll
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/obj/Debug/net5.0/AccessModifiers-Properties.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/obj/Debug/net5.0/AccessModifiers-Properties.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/AccessModifiers-Properties/obj/Debug/net5.0/ref/AccessModifiers-Properties.dll

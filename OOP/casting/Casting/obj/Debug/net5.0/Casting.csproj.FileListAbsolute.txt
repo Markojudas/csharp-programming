@@ -1,0 +1,16 @@
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/bin/Debug/net5.0/Casting
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/bin/Debug/net5.0/Casting.deps.json
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/bin/Debug/net5.0/Casting.runtimeconfig.json
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/bin/Debug/net5.0/Casting.runtimeconfig.dev.json
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/bin/Debug/net5.0/Casting.dll
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/bin/Debug/net5.0/Casting.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/obj/Debug/net5.0/Casting.csproj.AssemblyReference.cache
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/obj/Debug/net5.0/Casting.GeneratedMSBuildEditorConfig.editorconfig
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/obj/Debug/net5.0/Casting.AssemblyInfoInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/obj/Debug/net5.0/Casting.AssemblyInfo.cs
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/obj/Debug/net5.0/Casting.csproj.CoreCompileInputs.cache
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/obj/Debug/net5.0/Casting.dll
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/obj/Debug/net5.0/refint/Casting.dll
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/obj/Debug/net5.0/Casting.pdb
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/obj/Debug/net5.0/Casting.genruntimeconfig.cache
+/home/markojudas/Documents/Code/Csharp/OOP/casting/Casting/obj/Debug/net5.0/ref/Casting.dll
